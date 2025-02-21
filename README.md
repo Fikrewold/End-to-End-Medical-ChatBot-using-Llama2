@@ -1,4 +1,7 @@
 # End-to-end-Medical-Chatbot-using-Llama2
+![image](https://github.com/user-attachments/assets/6868287c-13de-41b7-930d-49868cf0e2a0)
+
+
 
 # How to run?
 ### STEPS:
